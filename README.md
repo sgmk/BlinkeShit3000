@@ -14,6 +14,8 @@ SGMK X-mas Party "Make DOCK18 Bright Again"
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/orders%20vom%20ali/BlinkePots_onProtoboard.jpg)
 
+Datashit: https://github.com/sgmk/BlinkeShit3000/raw/master/orders%20vom%20ali/RV09BF.pdf
+
 # "Official" SGMK BlinkeShit footprint library for KiCAD
 
 coming soon...
