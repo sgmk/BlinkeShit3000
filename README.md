@@ -30,7 +30,7 @@ Datashit: https://github.com/sgmk/BlinkeShit3000/raw/master/orders%20vom%20ali/R
 
 coming soon...
 
-# Classic examples of BlinkeShit
+# Classic Examples by the Pioneers of BlinkeShit
 ## by GaudiLabs
 coming soon...
 
