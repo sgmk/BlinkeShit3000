@@ -38,6 +38,7 @@ to be set up...
 * Miranda Moss (S.Africa / Sweden) - tries-not-to-be-an-artist, makes solar-powered blinking ginger-roots
 * Daniel Eugene Lacey-McDermott (Norway) - Captain Credible
 * Denisa Kera (global) - PCB connaisseuse and philosopher
+* Budi Prakosa (Indonesia) - Manticore / BadGeek, developer of svg2shenzhen (and much more)
 
 # Classic Examples by the Pioneers of BlinkeShit
 ## by GaudiLabs
