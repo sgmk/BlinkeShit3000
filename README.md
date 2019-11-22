@@ -1,4 +1,4 @@
-### BlinkeShit3000
+### BlinkeShit 3000
 # SGMK X-mas Party "Make DOCK18 Bright Again"
 ###### Shenzhen is soooo last millenium
 
