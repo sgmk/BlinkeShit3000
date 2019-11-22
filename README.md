@@ -30,8 +30,13 @@ Datashit: https://github.com/sgmk/BlinkeShit3000/raw/master/orders%20vom%20ali/R
 
 coming soon...
 
-# International Jury for SGMK BLinkeShit
+# International Jury for SGMK BlinkeShit
 to be set up...
+
+* David Chen - openlab Taipei, developer of the Taiwanduino
+* Scott Beibin - ...
+* Miranda Moss - tries-not-to-be-an-artist, makes solar-powered blinking ginger-roots
+
 
 # Classic Examples by the Pioneers of BlinkeShit
 ## by GaudiLabs
