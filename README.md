@@ -1,5 +1,6 @@
 ### BlinkeShit3000
 # SGMK X-mas Party "Make DOCK18 Bright Again"
+(Shenzhen is soooo last millenium)
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/examples/chase_light_ani_1200x900.gif)
 (taken from Oli W. website: http://oliverwalkhoff.com/led-chase-light)
