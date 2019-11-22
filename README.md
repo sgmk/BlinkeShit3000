@@ -30,4 +30,5 @@ coming soon...
 ## by Oli W. "the Legend"
 This is one of the first electronic circuits he built, dated October 1982.
 
+![](https://github.com/sgmk/BlinkeShit3000/raw/master/examples/chase_light_ani_1200x900.gif)
 
