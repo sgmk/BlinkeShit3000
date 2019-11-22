@@ -30,6 +30,9 @@ Datashit: https://github.com/sgmk/BlinkeShit3000/raw/master/orders%20vom%20ali/R
 
 coming soon...
 
+# International Jury for SGMK BLinkeShit
+to be set up...
+
 # Classic Examples by the Pioneers of BlinkeShit
 ## by GaudiLabs
 coming soon...
