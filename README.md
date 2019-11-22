@@ -33,10 +33,10 @@ coming soon...
 # International Jury for SGMK BlinkeShit
 to be set up...
 
-* David Chen - openlab Taipei, developer of the Taiwanduino
-* Scott Beibin - ...
-* Miranda Moss - tries-not-to-be-an-artist, makes solar-powered blinking ginger-roots
-
+* David Chen (Taiwan) - openlab Taipei, developer of the Taiwanduino
+* Scott Beibin (USA) - ...
+* Miranda Moss (S.Africa / Sweden) - tries-not-to-be-an-artist, makes solar-powered blinking ginger-roots
+* Daniel Eugene Lacey-McDermott (Norway) - Captain Credible
 
 # Classic Examples by the Pioneers of BlinkeShit
 ## by GaudiLabs
