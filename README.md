@@ -21,36 +21,47 @@ Live Video stream: https://meet.jit.si/BlinkeShit3000-international-jury
 ## Almost complete selection of entries
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_118.jpg)
+
 Author: anonymous
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_119.jpg)
+
 Author: Salome K. in the name of raumschiff
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_120.jpg)
+
 Author: Felix Bänteli and Sunrise not really sponsored 
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_121.jpg)
+
 Author: Markus S.
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_122.jpg)
+
 (Free Energy with Mario Purkathofer)
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_123.jpg)
+
 Author: Unknown
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_124.jpg)
+
 Author: Christoph K.
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_125.jpg)
+
 Author: Neighbour (Name unknown)
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_126.jpg)
+
 Author: Gaudi. We are still considering to ban Urs Gaudenz from this competition!
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_127.jpg)
+
 Author: Marc D. aka dusjagr
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_128.jpg)
+
 Author: Gaudi present for Veli
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_129.jpg)
