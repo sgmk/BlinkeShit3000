@@ -41,12 +41,15 @@ Author: Marc D. aka dusjagr
 Author: Gaudi present for Veli
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_129.jpg)
+
 Author: Oliver Jäggi soon to become "a legend"
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_130.jpg)
+
 Author: Tillo
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_131.jpg)
+
 Author: Katrin
 
 # Available components in MechArtLab
