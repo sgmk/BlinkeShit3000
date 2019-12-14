@@ -7,6 +7,19 @@
 
 # 2019 Entries for BlinkeShit 3000
 
+## International Jury for SGMK BlinkeShit
+
+* David Chen (Taiwan) - openlab Taipei, co-developer of the Taiwanduino
+* Scott Beibin (USA) - ...
+* Miranda Moss (S.Africa / Sweden) - tries-not-to-be-an-artist, makes solar-powered blinking ginger-roots
+* Daniel Eugene Lacey-McDermott (Norway) - Captain Credible
+* Yair Reshef (Israel) - Idiot (representing Denisa Kera (global) - PCB connaisseuse and philosopher)
+* absent: Budi Prakosa (Indonesia) - Manticore / BadGeek, developer of svg2shenzhen (and much more)
+
+Live Video stream: https://meet.jit.si/BlinkeShit3000-international-jury
+
+## Almost complete selection of entries
+
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_118.jpg)
 Author: anonymous
 
@@ -54,6 +67,10 @@ Author: Katrin
 
 # Available components in MechArtLab
 
+## "Official" SGMK BlinkeShit footprint library for KiCAD
+
+See folder... still in progress
+
 ## Blinke LEDs RGB
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/orders%20vom%20ali/RGB_flash_0807_aliOrder.jpg)
@@ -74,20 +91,6 @@ Author: Katrin
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/orders%20vom%20ali/BlinkePots_onProtoboard.jpg)
 
 Datashit: https://github.com/sgmk/BlinkeShit3000/raw/master/orders%20vom%20ali/RV09BF.pdf
-
-# "Official" SGMK BlinkeShit footprint library for KiCAD
-
-See folder... still in progress
-
-# International Jury for SGMK BlinkeShit
-to be set up...
-
-* David Chen (Taiwan) - openlab Taipei, co-developer of the Taiwanduino
-* Scott Beibin (USA) - ...
-* Miranda Moss (S.Africa / Sweden) - tries-not-to-be-an-artist, makes solar-powered blinking ginger-roots
-* Daniel Eugene Lacey-McDermott (Norway) - Captain Credible
-* Yair Reshef (Israel) - Idiot (representing Denisa Kera (global) - PCB connaisseuse and philosopher)
-* absent: Budi Prakosa (Indonesia) - Manticore / BadGeek, developer of svg2shenzhen (and much more)
 
 # Classic Examples by the Pioneers of BlinkeShit
 ## by GaudiLabs
