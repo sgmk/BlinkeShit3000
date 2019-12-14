@@ -10,7 +10,31 @@
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_118.jpg)
 Author: anonymous
 
+![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_119.jpg)
 
+![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_120.jpg)
+
+![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_121.jpg)
+
+![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_122.jpg)
+
+![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_123.jpg)
+
+![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_124.jpg)
+
+![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_125.jpg)
+
+![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_126.jpg)
+
+![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_127.jpg)
+
+![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_128.jpg)
+
+![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_129.jpg)
+
+![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_130.jpg)
+
+![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_131.jpg)
 
 # Available components in MechArtLab
 
