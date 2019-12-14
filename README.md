@@ -8,6 +8,9 @@
 # 2019 Entries for BlinkeShit 3000
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_118.jpg)
+Author: anonymous
+
+
 
 # Available components in MechArtLab
 
