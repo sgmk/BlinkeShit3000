@@ -5,6 +5,12 @@
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/examples/chase_light_ani_1200x900.gif)
 (taken from Oli W. website: http://oliverwalkhoff.com/led-chase-light)
 
+# 2019 Entries for BlinkeShit 3000
+
+![](https://github.com/sgmk/BlinkeShit3000/raw/master/2019_entries/Selection_118.jpg)
+
+# Available components in MechArtLab
+
 ## Blinke LEDs RGB
 
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/orders%20vom%20ali/RGB_flash_0807_aliOrder.jpg)
@@ -28,7 +34,7 @@ Datashit: https://github.com/sgmk/BlinkeShit3000/raw/master/orders%20vom%20ali/R
 
 # "Official" SGMK BlinkeShit footprint library for KiCAD
 
-coming soon...
+See folder... still in progress
 
 # International Jury for SGMK BlinkeShit
 to be set up...
@@ -37,12 +43,11 @@ to be set up...
 * Scott Beibin (USA) - ...
 * Miranda Moss (S.Africa / Sweden) - tries-not-to-be-an-artist, makes solar-powered blinking ginger-roots
 * Daniel Eugene Lacey-McDermott (Norway) - Captain Credible
-* Denisa Kera (global) - PCB connaisseuse and philosopher
-* Budi Prakosa (Indonesia) - Manticore / BadGeek, developer of svg2shenzhen (and much more)
+* Yair Reshef (Israel) - Idiot (representing Denisa Kera (global) - PCB connaisseuse and philosopher)
+* absent: Budi Prakosa (Indonesia) - Manticore / BadGeek, developer of svg2shenzhen (and much more)
 
 # Classic Examples by the Pioneers of BlinkeShit
 ## by GaudiLabs
-coming soon...
 
 https://github.com/GaudiLabs/BitBadge
 
