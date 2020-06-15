@@ -1,4 +1,12 @@
 ### BlinkeShit 3000
+
+# New BlinkeShit for Bitwäscherei"
+
+An adapted and simplified version of the circuit of the 8Bit Mixtape / Gär-Lämpli to make a little BlinkeShit sign for our new hackerspace collective.
+
+![](https://github.com/sgmk/BlinkeShit3000/raw/master/Blinkeshit_Bitw/BlinkyShit_Bitw_open.jpg)
+
+
 # SGMK X-mas Party "Make DOCK18 Bright Again"
 ###### Shenzhen is soooo last millenium
 
