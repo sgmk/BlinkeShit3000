@@ -1,10 +1,28 @@
 ### BlinkeShit 3000
 
-# New BlinkeShit for Bitwäscherei"
+# New BlinkeShit for Bitwäscherei
 
 An adapted and simplified version of the circuit of the 8Bit Mixtape / Gär-Lämpli to make a little BlinkeShit sign for our new hackerspace collective.
 
+https://github.com/8BitMixtape/8Bit-Mixtape-NEO
+
 ![](https://github.com/sgmk/BlinkeShit3000/raw/master/Blinkeshit_Bitw/BlinkyShit_Bitw_open.jpg)
+
+You can design your custom front plate and etch it on PCB or use any other material, paper etc as diffusor.
+
+![](https://github.com/sgmk/BlinkeShit3000/raw/master/Blinkeshit_Bitw/BlinkyShit_example.jpg)
+
+Upload different BlinkeCode using the Audio Bootloader from arduino IDE:
+https://github.com/ChrisMicro/TinyAudioBoot
+Best to directly install the full hardware library of the 8bitMixtape to your Arduino IDE, add this to your additional hardware manager: http://8bitmixtape.github.io/package_8bitmixtape_index.json
+
+There are more pins available for adding sensors, pots, buttons etc.
+
+## PCB baseplate
+
+![](https://github.com/sgmk/BlinkeShit3000/raw/master/Blinkeshit_Bitw/PCB/taefeli_export.png)
+
+
 
 
 # SGMK X-mas Party "Make DOCK18 Bright Again"
