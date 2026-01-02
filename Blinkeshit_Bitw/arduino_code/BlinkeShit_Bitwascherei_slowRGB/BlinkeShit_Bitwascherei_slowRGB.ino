@@ -149,7 +149,7 @@ void playMart(int notes[])
 void setup(void) {
 
   pinMode(SPEAKERPIN, OUTPUT);
-  uint8_t brightness = hell;
+  uint8_t brightness = 255;
   pixels.begin();
   pixels.setBrightness(brightness);
   
