@@ -1,0 +1,13 @@
+# AI-tiny BlinkeShit 3000
+
+Nice little 4x5 pixel display with ATTINY85, Audio bootloader, and (new) 5050 WS2812b RGB LEDs.
+
+## SMD Reflow Workshop
+
+This workshop is primarily to introduce beginners into a very DIY style of reflow soldering using a small number of parts, self-etched PCBs, self-made stencils and simple heaters for reflowing.
+
+## AI slop on 20 pixels
+
+more about this soon!
+
+Visuals can be uploaded from this site: https://dusjagr.github.io/AudioBoot-pio-test/wav/index.html
