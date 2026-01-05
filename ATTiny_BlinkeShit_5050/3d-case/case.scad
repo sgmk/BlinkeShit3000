@@ -1,9 +1,11 @@
 $fn = 96;
 
-cover = 0.12;
+cover = 0.00; // imcrease to approx 0.1 to 0.2 for a thin diffusion layer
 
+case();
+lid();
 
-module
+module case() {
 rotate([180,0,0]) union(){
 linear_extrude(height = 5, center = true, convexity = 10)
 		import(file = "case_grid.dxf", layer = "grid");
@@ -24,6 +26,7 @@ difference(){
 		import(file = "case_grid.dxf", layer = "LED");
   }
 }
+}
 
 // thin coverlayer
 /*
@@ -36,7 +39,7 @@ translate([0,0,2.5]) linear_extrude(height = 0.12, center = true, convexity = 10
 
 // lid
 
-
+module lid() {
 rotate([180,0,0]) translate([75,0,2.5]) difference(){
     minkowski(){
 translate([0,0,-1]) linear_extrude(height = 6, center = true, convexity = 10)
@@ -45,11 +48,12 @@ translate([0,0,-1]) linear_extrude(height = 6, center = true, convexity = 10)
     }
     translate([0,0,-1.6]) linear_extrude(height = 8, center = true, convexity = 10)
 		import(file = "case_grid.dxf", layer = "Tobinner");
-    linear_extrude(height = 6, center = true, convexity = 10)
+    translate([0,0,-0.0-cover]) linear_extrude(height = 6, center = true, convexity = 10)
 		import(file = "case_grid.dxf", layer = "LED");
     translate([0,0,0])linear_extrude(height = 7, center = true, convexity = 10)
 		import(file = "case_grid.dxf", layer = "cut");
     translate([7.5,40,-1]) cube([11, 10, 5], center=true);
     translate([6,0,-0.6]) cube([8, 10, 5], center=true);
     
+}
 }
